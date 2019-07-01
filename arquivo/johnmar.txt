@@ -1,0 +1,181 @@
+Fornecedor: JOHNMAR COMERCIO E REPRESENTACOES LTDA
+Banco: BANCO DO BRASIL                            Agencia: 
+ 
+Relação de títulos pagos: 
+-------------------------------------------------------------------------------------------------
+Filial                                            Nota Fiscal       Pagamento               Valor
+ 
+504 - farmaSesi Brusque Maluche                   342219            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+505 - farmaSesi Jorge Lacerda                     342124            28/06/2019              149,5     Baixado por envio de remessa de pagamento automatizado.
+505 - farmaSesi Jorge Lacerda                     342123            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+506 - farmaSesi João Zanette                      342127            28/06/2019             278,54     Baixado por envio de remessa de pagamento automatizado.
+510 - farmaSesi Concórdia                         342235            28/06/2019              149,5     Baixado por envio de remessa de pagamento automatizado.
+511 - farmaSesi Chico de Paulo                    342904            28/06/2019              341,5     Baixado por envio de remessa de pagamento automatizado.
+511 - farmaSesi Chico de Paulo                    342186            28/06/2019              59,88     Baixado por envio de remessa de pagamento automatizado.
+512 - farmaSesi São Bento do Sul                  342180            28/06/2019             356,12     Baixado por envio de remessa de pagamento automatizado.
+515 - farmaSesi Caçador                           342197            28/06/2019              19,18     Baixado por envio de remessa de pagamento automatizado.
+515 - farmaSesi Caçador                           342196            28/06/2019             449,13     Baixado por envio de remessa de pagamento automatizado.
+516 - farmaSesi Videira                           342911            28/06/2019               5,99     Baixado por envio de remessa de pagamento automatizado.
+516 - farmaSesi Videira                           342909            28/06/2019             682,17     Baixado por envio de remessa de pagamento automatizado.
+517 - farmaSesi Chapecó                           342150            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+518 - farmaSesi Joaçaba                           342248            28/06/2019             854,84     Baixado por envio de remessa de pagamento automatizado.
+518 - farmaSesi Joaçaba                           342250            28/06/2019              13,17     Baixado por envio de remessa de pagamento automatizado.
+519 - farmaSesi Campinas                          342132            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+521 - farmaSesi Brusque Centro                    342936            28/06/2019              233,7     Baixado por envio de remessa de pagamento automatizado.
+523 - farmaSesi Itajaí                            342215            28/06/2019             335,51     Baixado por envio de remessa de pagamento automatizado.
+523 - farmaSesi Itajaí                            342948            28/06/2019             127,71     Baixado por envio de remessa de pagamento automatizado.
+526 - farmaSesi Tijucas                           342182            28/06/2019               5,99     Baixado por envio de remessa de pagamento automatizado.
+528 - farmaSesi Coral                             342232            28/06/2019             744,75     Baixado por envio de remessa de pagamento automatizado.
+529 - farmaSesi Rio do Sul                        342953            28/06/2019             377,62     Baixado por envio de remessa de pagamento automatizado.
+530 - farmaSesi Orleans                           342941            28/06/2019                140     Baixado por envio de remessa de pagamento automatizado.
+531 - farmaSesi Canoinhas                         342184            28/06/2019             398,84     Baixado por envio de remessa de pagamento automatizado.
+532 - farmaSesi São Miguel do Oeste               342229            28/06/2019              92,69     Baixado por envio de remessa de pagamento automatizado.
+534 - farmaSesi Ibirama                           342930            28/06/2019             145,89     Baixado por envio de remessa de pagamento automatizado.
+534 - farmaSesi Ibirama                           342931            28/06/2019                598     Baixado por envio de remessa de pagamento automatizado.
+536 - farmaSesi Mafra                             342125            28/06/2019             212,86     Baixado por envio de remessa de pagamento automatizado.
+540 - farmaSesi Rio Negrinho                      342175            28/06/2019              61,46     Baixado por envio de remessa de pagamento automatizado.
+540 - farmaSesi Rio Negrinho                      342173            28/06/2019             1239,9     Baixado por envio de remessa de pagamento automatizado.
+542 - farmaSesi Beira Rio                         342950            28/06/2019              38,26     Baixado por envio de remessa de pagamento automatizado.
+543 - farmaSesi Herval d'Oeste                    342226            28/06/2019             212,36     Baixado por envio de remessa de pagamento automatizado.
+544 - farmaSesi Trindade                          342138            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+544 - farmaSesi Trindade                          342137            28/06/2019             156,39     Baixado por envio de remessa de pagamento automatizado.
+546 - farmaSesi Blumenau Centro                   342243            28/06/2019             177,84     Baixado por envio de remessa de pagamento automatizado.
+548 - farmaSesi Garcia                            342221            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+549 - farmaSesi Benjamin Constant                 342213            28/06/2019              16,98     Baixado por envio de remessa de pagamento automatizado.
+549 - farmaSesi Benjamin Constant                 342214            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+550 - farmaSesi Fortaleza                         342238            28/06/2019             343,57     Baixado por envio de remessa de pagamento automatizado.
+551 - farmaSesi Rua XV 24h                        342192            28/06/2019              13,17     Baixado por envio de remessa de pagamento automatizado.
+551 - farmaSesi Rua XV 24h                        342193            28/06/2019               8,78     Baixado por envio de remessa de pagamento automatizado.
+555 - farmaSesi Gama D'Eça 24h                    342142            28/06/2019              13,98     Baixado por envio de remessa de pagamento automatizado.
+555 - farmaSesi Gama D'Eça 24h                    342141            28/06/2019             217,79     Baixado por envio de remessa de pagamento automatizado.
+556 - farmaSesi Ministro                          342908            28/06/2019               99,4     Baixado por envio de remessa de pagamento automatizado.
+556 - farmaSesi Ministro                          342179            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+557 - farmaSesi Boa Vista                         342945            28/06/2019              70,37     Baixado por envio de remessa de pagamento automatizado.
+560 - farmaSesi Whirlpool                         342194            28/06/2019             153,08     Baixado por envio de remessa de pagamento automatizado.
+561 - farmaSesi Pedra Branca                      342163            28/06/2019               9,59     Baixado por envio de remessa de pagamento automatizado.
+561 - farmaSesi Pedra Branca                      342161            28/06/2019             169,06     Baixado por envio de remessa de pagamento automatizado.
+563 - farmaSesi Itaum                             342203            28/06/2019             207,79     Baixado por envio de remessa de pagamento automatizado.
+564 - farmaSesi Indaial                           342944            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+564 - farmaSesi Indaial                           342224            28/06/2019             295,06     Baixado por envio de remessa de pagamento automatizado.
+568 - farmaSesi Oxford                            342112            28/06/2019             825,11     Baixado por envio de remessa de pagamento automatizado.
+569 - farmaSesi Cocal do Sul                      342145            28/06/2019             479,64     Baixado por envio de remessa de pagamento automatizado.
+569 - farmaSesi Cocal do Sul                      342147            28/06/2019               8,78     Baixado por envio de remessa de pagamento automatizado.
+570 - farmaSesi Xanxerê                           342230            28/06/2019              448,5     Baixado por envio de remessa de pagamento automatizado.
+574 - farmaSesi Pirabeiraba                       342153            28/06/2019              21,95     Baixado por envio de remessa de pagamento automatizado.
+574 - farmaSesi Pirabeiraba                       342152            28/06/2019              23,37     Baixado por envio de remessa de pagamento automatizado.
+576 - Farmácia Pedro Benedet                      342134            28/06/2019             249,25     Baixado por envio de remessa de pagamento automatizado.
+579 - farmaSesi Canta Galo                        342932            28/06/2019              74,75     Baixado por envio de remessa de pagamento automatizado.
+579 - farmaSesi Canta Galo                        342933            28/06/2019             234,59     Baixado por envio de remessa de pagamento automatizado.
+582 - Farmácia Rio Maina                          342130            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+584 - farmaSesi Mauro Ramos (Manipulação          342165            28/06/2019             142,78     Baixado por envio de remessa de pagamento automatizado.
+586 - farmaSesi Vila Nova                         342939            28/06/2019              83,55     Baixado por envio de remessa de pagamento automatizado.
+586 - farmaSesi Vila Nova                         342201            28/06/2019              39,97     Baixado por envio de remessa de pagamento automatizado.
+587 - farmaSesi Marechal Deodoro                  342247            28/06/2019                299     Baixado por envio de remessa de pagamento automatizado.
+588 - farmaSesi Vila Moema                        342109            28/06/2019              279,1     Baixado por envio de remessa de pagamento automatizado.
+592 - farmaSesi Iririu                            342157            28/06/2019             190,52     Baixado por envio de remessa de pagamento automatizado.
+596 - farmaSesi Fonte Luminosa                    342205            28/06/2019             254,83     Baixado por envio de remessa de pagamento automatizado.
+596 - farmaSesi Fonte Luminosa                    342207            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+597 - farmaSesi Itoupava Central                  342209            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+598 - farmaSesi Campos Novos                      342233            28/06/2019               67,9     Baixado por envio de remessa de pagamento automatizado.
+900 - farmaSesi Serra Alta                        342119            28/06/2019               74,4     Baixado por envio de remessa de pagamento automatizado.
+902 - farmaSesi Costa e Silva                     342166            28/06/2019             151,36     Baixado por envio de remessa de pagamento automatizado.
+902 - farmaSesi Costa e Silva                     342167            28/06/2019              34,98     Baixado por envio de remessa de pagamento automatizado.
+903 - farmaSesi Conselheiro Mafra                 342156            28/06/2019              19,18     Baixado por envio de remessa de pagamento automatizado.
+904 - farmaSesi Palhoça                           342133            28/06/2019              56,12     Baixado por envio de remessa de pagamento automatizado.
+905 - farmaSesi Timbó                             342242            28/06/2019              39,37     Baixado por envio de remessa de pagamento automatizado.
+905 - farmaSesi Timbó                             342241            28/06/2019              32,35     Baixado por envio de remessa de pagamento automatizado.
+914 - farmaSesi Alto Avenida                      342921            28/06/2019                299     Baixado por envio de remessa de pagamento automatizado.
+914 - farmaSesi Alto Avenida                      342198            28/06/2019             109,72     Baixado por envio de remessa de pagamento automatizado.
+915 - farmaSesi Jaraguá do Sul                    342135            28/06/2019              94,22     Baixado por envio de remessa de pagamento automatizado.
+919 - farmaSesi Dr. João Colin 24h                342168            28/06/2019             176,62     Baixado por envio de remessa de pagamento automatizado.
+921 - farmaSesi Curitibanos                       342237            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+922 - farmaSesi Marisol Jaraguá do Sul            342177            28/06/2019              89,27     Baixado por envio de remessa de pagamento automatizado.
+504 - farmaSesi Brusque Maluche                   342942            28/06/2019             273,24     Baixado por envio de remessa de pagamento automatizado.
+505 - farmaSesi Jorge Lacerda                     342121            28/06/2019             786,19     Baixado por envio de remessa de pagamento automatizado.
+510 - farmaSesi Concórdia                         342234            28/06/2019              27,28     Baixado por envio de remessa de pagamento automatizado.
+511 - farmaSesi Chico de Paulo                    342185            28/06/2019             262,46     Baixado por envio de remessa de pagamento automatizado.
+515 - farmaSesi Caçador                           342919            28/06/2019              571,8     Baixado por envio de remessa de pagamento automatizado.
+516 - farmaSesi Videira                           342910            28/06/2019              69,89     Baixado por envio de remessa de pagamento automatizado.
+517 - farmaSesi Chapecó                           342149            28/06/2019             232,68     Baixado por envio de remessa de pagamento automatizado.
+519 - farmaSesi Campinas                          342131            28/06/2019             254,65     Baixado por envio de remessa de pagamento automatizado.
+521 - farmaSesi Brusque Centro                    342140            28/06/2019             175,81     Baixado por envio de remessa de pagamento automatizado.
+526 - farmaSesi Tijucas                           342181            28/06/2019             169,29     Baixado por envio de remessa de pagamento automatizado.
+529 - farmaSesi Rio do Sul                        342244            28/06/2019             259,71     Baixado por envio de remessa de pagamento automatizado.
+530 - farmaSesi Orleans                           342115            28/06/2019             129,76     Baixado por envio de remessa de pagamento automatizado.
+534 - farmaSesi Ibirama                           342228            28/06/2019             523,25     Baixado por envio de remessa de pagamento automatizado.
+536 - farmaSesi Mafra                             342126            28/06/2019             124,25     Baixado por envio de remessa de pagamento automatizado.
+540 - farmaSesi Rio Negrinho                      342174            28/06/2019                897     Baixado por envio de remessa de pagamento automatizado.
+542 - farmaSesi Beira Rio                         342171            28/06/2019             456,71     Baixado por envio de remessa de pagamento automatizado.
+544 - farmaSesi Trindade                          342139            28/06/2019               8,78     Baixado por envio de remessa de pagamento automatizado.
+548 - farmaSesi Garcia                            342220            28/06/2019             228,68     Baixado por envio de remessa de pagamento automatizado.
+549 - farmaSesi Benjamin Constant                 342212            28/06/2019             106,81     Baixado por envio de remessa de pagamento automatizado.
+551 - farmaSesi Rua XV 24h                        342191            28/06/2019             342,03     Baixado por envio de remessa de pagamento automatizado.
+554 - farmaSesi Itoupava Norte                    342217            28/06/2019             285,35     Baixado por envio de remessa de pagamento automatizado.
+555 - farmaSesi Gama D'Eça 24h                    342143            28/06/2019              10,38     Baixado por envio de remessa de pagamento automatizado.
+556 - farmaSesi Ministro                          342178            28/06/2019             114,34     Baixado por envio de remessa de pagamento automatizado.
+560 - farmaSesi Whirlpool                         342195            28/06/2019                299     Baixado por envio de remessa de pagamento automatizado.
+562 - farmaSesi Embraco                           342202            28/06/2019              34,54     Baixado por envio de remessa de pagamento automatizado.
+564 - farmaSesi Indaial                           342225            28/06/2019              16,07     Baixado por envio de remessa de pagamento automatizado.
+568 - farmaSesi Oxford                            342113            28/06/2019                598     Baixado por envio de remessa de pagamento automatizado.
+569 - farmaSesi Cocal do Sul                      342146            28/06/2019               9,59     Baixado por envio de remessa de pagamento automatizado.
+574 - farmaSesi Pirabeiraba                       342151            28/06/2019             117,89     Baixado por envio de remessa de pagamento automatizado.
+577 - farmaSesi Araranguá                         342937            28/06/2019               9,98     Baixado por envio de remessa de pagamento automatizado.
+581 - farmaSesi Coqueiros                         342144            28/06/2019             177,56     Baixado por envio de remessa de pagamento automatizado.
+584 - farmaSesi Mauro Ramos (Manipulação          342905            28/06/2019              35,29     Baixado por envio de remessa de pagamento automatizado.
+587 - farmaSesi Marechal Deodoro                  342246            28/06/2019             282,18     Baixado por envio de remessa de pagamento automatizado.
+592 - farmaSesi Iririu                            342158            28/06/2019              19,18     Baixado por envio de remessa de pagamento automatizado.
+596 - farmaSesi Fonte Luminosa                    342206            28/06/2019             151,94     Baixado por envio de remessa de pagamento automatizado.
+598 - farmaSesi Campos Novos                      342928            28/06/2019              23,37     Baixado por envio de remessa de pagamento automatizado.
+900 - farmaSesi Serra Alta                        342120            28/06/2019              16,98     Baixado por envio de remessa de pagamento automatizado.
+903 - farmaSesi Conselheiro Mafra                 342949            28/06/2019             675,34     Baixado por envio de remessa de pagamento automatizado.
+904 - farmaSesi Palhoça                           342914            28/06/2019              25,18     Baixado por envio de remessa de pagamento automatizado.
+906 - farmaSesi Perini                            341492            28/06/2019             158,99     Baixado por envio de remessa de pagamento automatizado.
+914 - farmaSesi Alto Avenida                      342920            28/06/2019             195,07     Baixado por envio de remessa de pagamento automatizado.
+919 - farmaSesi Dr. João Colin 24h                342169            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+923 - farmaSesi Brusque Centro II                 342211            28/06/2019               97,5     Baixado por envio de remessa de pagamento automatizado.
+504 - farmaSesi Brusque Maluche                   342218            28/06/2019              183,3     Baixado por envio de remessa de pagamento automatizado.
+505 - farmaSesi Jorge Lacerda                     342122            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+506 - farmaSesi João Zanette                      342952            28/06/2019             145,93     Baixado por envio de remessa de pagamento automatizado.
+511 - farmaSesi Chico de Paulo                    342187            28/06/2019               8,78     Baixado por envio de remessa de pagamento automatizado.
+513 - Farmácia Criciúma (Manipulação)             342128            28/06/2019             302,54     Baixado por envio de remessa de pagamento automatizado.
+516 - farmaSesi Videira                           342188            28/06/2019             436,86     Baixado por envio de remessa de pagamento automatizado.
+516 - farmaSesi Videira                           342189            28/06/2019             1046,5     Baixado por envio de remessa de pagamento automatizado.
+518 - farmaSesi Joaçaba                           342249            28/06/2019              30,73     Baixado por envio de remessa de pagamento automatizado.
+520 - farmaSesi Otacílio Costa                    342170            28/06/2019             211,56     Baixado por envio de remessa de pagamento automatizado.
+523 - farmaSesi Itajaí                            342216            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+527 - farmaSesi Central                           342223            28/06/2019             298,06     Baixado por envio de remessa de pagamento automatizado.
+529 - farmaSesi Rio do Sul                        342245            28/06/2019              74,75     Baixado por envio de remessa de pagamento automatizado.
+531 - farmaSesi Canoinhas                         342183            28/06/2019              34,98     Baixado por envio de remessa de pagamento automatizado.
+534 - farmaSesi Ibirama                           342227            28/06/2019             183,15     Baixado por envio de remessa de pagamento automatizado.
+538 - Farmácia Guaramirim                         342154            28/06/2019             120,64     Baixado por envio de remessa de pagamento automatizado.
+540 - farmaSesi Rio Negrinho                      342176            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+544 - farmaSesi Trindade                          342912            28/06/2019             332,09     Baixado por envio de remessa de pagamento automatizado.
+545 - farmaSesi Correia Pinto                     342204            28/06/2019             260,34     Baixado por envio de remessa de pagamento automatizado.
+548 - farmaSesi Garcia                            342222            28/06/2019              12,59     Baixado por envio de remessa de pagamento automatizado.
+550 - farmaSesi Fortaleza                         342239            28/06/2019               4,39     Baixado por envio de remessa de pagamento automatizado.
+551 - farmaSesi Rua XV 24h                        342190            28/06/2019             442,06     Baixado por envio de remessa de pagamento automatizado.
+555 - farmaSesi Gama D'Eça 24h                    342927            28/06/2019             109,66     Baixado por envio de remessa de pagamento automatizado.
+556 - farmaSesi Ministro                          342907            28/06/2019              107,6     Baixado por envio de remessa de pagamento automatizado.
+557 - farmaSesi Boa Vista                         342200            28/06/2019              79,38     Baixado por envio de remessa de pagamento automatizado.
+561 - farmaSesi Pedra Branca                      342913            28/06/2019              73,62     Baixado por envio de remessa de pagamento automatizado.
+564 - farmaSesi Indaial                           342943            28/06/2019              234,8     Baixado por envio de remessa de pagamento automatizado.
+568 - farmaSesi Oxford                            342114            28/06/2019               9,59     Baixado por envio de remessa de pagamento automatizado.
+569 - farmaSesi Cocal do Sul                      342946            28/06/2019             367,71     Baixado por envio de remessa de pagamento automatizado.
+570 - farmaSesi Xanxerê                           342231            28/06/2019              66,45     Baixado por envio de remessa de pagamento automatizado.
+574 - farmaSesi Pirabeiraba                       342947            28/06/2019             153,97     Baixado por envio de remessa de pagamento automatizado.
+579 - farmaSesi Canta Galo                        342210            28/06/2019             198,15     Baixado por envio de remessa de pagamento automatizado.
+582 - Farmácia Rio Maina                          342129            28/06/2019             152,55     Baixado por envio de remessa de pagamento automatizado.
+586 - farmaSesi Vila Nova                         342940            28/06/2019              13,17     Baixado por envio de remessa de pagamento automatizado.
+588 - farmaSesi Vila Moema                        342951            28/06/2019              30,18     Baixado por envio de remessa de pagamento automatizado.
+593 - farmaSesi Chapecó - Centro                  342159            28/06/2019              56,98     Baixado por envio de remessa de pagamento automatizado.
+597 - farmaSesi Itoupava Central                  342208            28/06/2019             163,57     Baixado por envio de remessa de pagamento automatizado.
+599 - farmaSesi Princesa Isabel                   342148            28/06/2019              97,89     Baixado por envio de remessa de pagamento automatizado.
+902 - farmaSesi Costa e Silva                     342906            28/06/2019               9,59     Baixado por envio de remessa de pagamento automatizado.
+903 - farmaSesi Conselheiro Mafra                 342155            28/06/2019             403,34     Baixado por envio de remessa de pagamento automatizado.
+905 - farmaSesi Timbó                             342240            28/06/2019             529,96     Baixado por envio de remessa de pagamento automatizado.
+914 - farmaSesi Alto Avenida                      342199            28/06/2019              75,54     Baixado por envio de remessa de pagamento automatizado.
+915 - farmaSesi Jaraguá do Sul                    342136            28/06/2019               7,29     Baixado por envio de remessa de pagamento automatizado.
+921 - farmaSesi Curitibanos                       342236            28/06/2019             151,73     Baixado por envio de remessa de pagamento automatizado.
+-------------------------------------------------------------------------------------------------
+Total:                                                                                   31728,68
+ 
